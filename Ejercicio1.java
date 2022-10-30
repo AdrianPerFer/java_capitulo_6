@@ -1,6 +1,7 @@
 /*
  * 
- * Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle for.
+ * Escribe un programa que muestre la tirada de tres dados. Se debe mostrar
+ * también la suma total (los puntos que suman entre los tres dados).
  * 
  * @author Adrián Perogil Fernández
  * 
