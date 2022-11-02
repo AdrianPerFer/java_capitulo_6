@@ -20,7 +20,7 @@ public class Ejercicio6 {
             numero2 = sc.nextInt();
             if (numero2 == numero) {
                 System.out.println("Has adivinado el número");
-                break;
+                i = 6;
             } else if (numero2 > numero) {
                 System.out.println(numero2 + " es mayor que el número a adivinar");
             } else if (numero2 < numero) {
