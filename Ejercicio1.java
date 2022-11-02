@@ -10,7 +10,7 @@ public class Ejercicio1 {
     public static void main(String[] args) {
         int sumaTotal = 0;
         for (int i = 1 ; i <= 3 ; i++) {
-            int mano = (int)(Math.random()*3);
+            int mano = (int)(Math.random()*6 + 1);
             System.out.println("Dado número " + i + " contiene el valor: " + mano);
             sumaTotal += mano;
         }
