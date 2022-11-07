@@ -38,16 +38,19 @@ public class Ejercicio22 {
                         System.out.print(" ");
                     }
                     System.out.println("*");
+                    break;
                 case 1:
                     for ( int i = 1 ; i < 13 ; i++ ) {
                         System.out.print(" ");
                     }
                     System.out.println("*");
+                    break;
                 case 2:
                     for ( int i = 1 ; i <= 13 ; i++ ) {
                         System.out.print(" ");
                     }
                     System.out.println("*");
+                    break;
                 default:
             }
         }
