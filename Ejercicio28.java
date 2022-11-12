@@ -31,7 +31,6 @@
  * @author Adrián Perogil Fernández
  * 
  */
-import java.util.Scanner;
 public class Ejercicio28 {
     public static void main(String[] args) {
         int altura = (int)(Math.random() * 6) * 2 + 3;
