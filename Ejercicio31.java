@@ -45,6 +45,7 @@ public class Ejercicio31 {
                     sumaDado_1 = sumaDado_2;
                 }
             } while (!fin);
+            sc.close();
         }
     }
 }
